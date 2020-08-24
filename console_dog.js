@@ -1,4 +1,4 @@
-// ---- Console Dog v1.4 created by Jayden H ---- 
+// ---- Console Dog v1.5 created by Jayden H ---- 
 
 console.dog = function (input) {
     if (input == "!bark") console.log("WOOF WOOF! I AM A DOG!");
